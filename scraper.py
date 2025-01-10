@@ -13,7 +13,7 @@ driver = webdriver.Chrome(options=chrome_options)
 
 try:
     # Navigate to the live results page
-    driver.get("https://example.com/live-results")  # Replace with the actual URL
+    driver.get("https://odibets.com/odileague")  # Replace with the actual URL
 
     # Wait for elements to load
     driver.implicitly_wait(10)
